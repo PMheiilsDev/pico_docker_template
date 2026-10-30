@@ -1,0 +1,6 @@
+{
+    "cmake.buildBeforeRun": true,
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.generator": "Unix Makefiles",
+    "cortex-debug.openocdPath": "openocd"
+}
